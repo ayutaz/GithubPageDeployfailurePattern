@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Flooded_Grounds/Scenes/Scene_A.unity
+    guid: c0d944ca9defd20449bc336e50d75a08
+  - enabled: 1
+    path: Assets/Flooded_Grounds/Scenes/PreAsembeld_Buildings.unity
+    guid: becca19b86da74b4696c89ff8d644228
   m_configObjects: {}
